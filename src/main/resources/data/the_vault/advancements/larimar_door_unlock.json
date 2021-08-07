@@ -1,0 +1,25 @@
+
+{
+  "parent": "the_vault:lootchest",
+  "display": {
+    "title": {
+      "text": "Larimar Treasure Room"
+    },
+    "description": {
+      "text": "Use a Larimar Key on a Larimar Door"
+    },
+    "icon": {
+      "item": "the_vault:key_larimar"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/block/blackstone.png"
+  },
+  "criteria": {
+    "unlocked": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

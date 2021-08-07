@@ -1,0 +1,19 @@
+
+
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "the_vault:item/vault_crystal_normal"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 0 }, "model": "the_vault:item/vault_crystal_normal"},
+    {"predicate": {"custom_model_data": 1 }, "model": "the_vault:item/engraved/common/vault_crystal_normal_engraved_1"},
+    {"predicate": {"custom_model_data": 2 }, "model": "the_vault:item/engraved/common/vault_crystal_normal_engraved_2"},
+    {"predicate": {"custom_model_data": 3 }, "model": "the_vault:item/engraved/common/vault_crystal_normal_engraved_3"},
+    {"predicate": {"custom_model_data": 4 }, "model": "the_vault:item/engraved/common/vault_crystal_normal_engraved_4"},
+    {"predicate": {"custom_model_data": 5 }, "model": "the_vault:item/engraved/common/vault_crystal_normal_engraved_5"},
+    {"predicate": {"custom_model_data": 6 }, "model": "the_vault:item/engraved/common/vault_crystal_normal_engraved_6"},
+    {"predicate": {"custom_model_data": 7 }, "model": "the_vault:item/engraved/common/vault_crystal_normal_engraved_7"},
+    {"predicate": {"custom_model_data": 8 }, "model": "the_vault:item/engraved/common/vault_crystal_normal_engraved_8"}
+  ]
+}

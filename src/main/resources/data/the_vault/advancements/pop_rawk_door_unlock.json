@@ -1,0 +1,25 @@
+
+{
+  "parent": "the_vault:lootchest",
+  "display": {
+    "title": {
+      "text": "Pop Rawk Treasure Room"
+    },
+    "description": {
+      "text": "Use a Pop Rawk Key on a Pop Rawk Door"
+    },
+    "icon": {
+      "item": "the_vault:key_pop_rawk"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/block/blackstone.png"
+  },
+  "criteria": {
+    "unlocked": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

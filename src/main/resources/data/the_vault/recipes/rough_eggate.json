@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gg",
+    "gg"
+  ],
+  "key": {
+    "g": {
+      "item": "the_vault:gem_eggate"
+    }
+  },
+  "result": {
+    "item": "the_vault:rough_eggate",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "the_vault:transmog_recipe",
+  "stat": {
+    "item": "the_vault:chestplate"
+  },
+  "model": {
+    "item": "the_vault:chestplate"
+  },
+  "result": {
+    "item": "the_vault:chestplate",
+    "count": 1
+  }
+} 

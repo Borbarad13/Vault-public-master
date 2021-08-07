@@ -1,0 +1,29 @@
+{
+  "parent": "the_vault:root",
+  "display": {
+      "title": {
+          "text": "Loot Goblin",
+          "color": "black",
+          "italic": false
+      },
+      "description": {
+          "text": "Open a loot chest in a vault"
+      },
+      "icon": {
+          "item": "minecraft:chest"
+      },
+      "frame": "task",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": true,
+      "background": "minecraft:textures/gui/advancements/backgrounds/blackstone.png"
+  },
+  "criteria": {
+      "openlootchest": {
+          "trigger": "minecraft:player_generates_container_loot",
+          "conditions": {
+              "loot_table": "the_vault:chest/breadcrumb"
+          }
+      }
+  }
+}

@@ -1,0 +1,25 @@
+
+{
+  "parent": "the_vault:lootchest",
+  "display": {
+    "title": {
+      "text": "Joolsper Treasure Room"
+    },
+    "description": {
+      "text": "Use a Joolsper Key on a Joolsper Door"
+    },
+    "icon": {
+      "item": "the_vault:key_joolsper"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/block/blackstone.png"
+  },
+  "criteria": {
+    "unlocked": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

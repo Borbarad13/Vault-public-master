@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gpg",
+    "pcp",
+    "gpg"
+  ],
+  "key": {
+    "c": {
+      "item": "the_vault:cluster_benitoite"
+    },
+    "p": {
+      "item": "the_vault:polished_benitoite"
+    },
+    "g": {
+      "item": "the_vault:gem_benitoite"
+    }
+  },
+  "result": {
+    "item": "the_vault:chunk_benitoite",
+    "count": 1
+  }
+}

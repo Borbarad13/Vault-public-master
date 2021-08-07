@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "the_vault:vault_crystal_normal",
+    "the_vault:vault_crystal_rare",
+    "the_vault:vault_crystal_epic",
+    "the_vault:vault_crystal_omega"
+  ]
+} 

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gg",
+    "gg"
+  ],
+  "key": {
+    "g": {
+      "item": "the_vault:gem_black_opal"
+    }
+  },
+  "result": {
+    "item": "the_vault:rough_black_opal",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gg",
+    "gg"
+  ],
+  "key": {
+    "g": {
+      "item": "the_vault:gem_benitoite"
+    }
+  },
+  "result": {
+    "item": "the_vault:rough_benitoite",
+    "count": 1
+  }
+}

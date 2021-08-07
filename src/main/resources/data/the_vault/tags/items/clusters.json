@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "the_vault:cluster_alexandrite",
+    "the_vault:cluster_benitoite",
+    "the_vault:cluster_larimar",
+    "the_vault:cluster_black_opal",
+    "the_vault:cluster_painite",
+    "the_vault:cluster_iskallium",
+    "the_vault:cluster_renium",
+    "the_vault:cluster_gorginite",
+    "the_vault:cluster_sparkletine",
+    "the_vault:cluster_wutodie",
+    "the_vault:cluster_miscelaneyous",
+    "the_vault:cluster_joolsper",
+    "the_vault:cluster_pop_rawk",
+    "the_vault:cluster_eggate",
+    "the_vault:cluster_labrajoerite"
+  ]
+} 

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " g ",
+    "gcg",
+    " g "
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:egg"
+    },
+    "g": {
+      "item": "the_vault:gem_eggate"
+    }
+  },
+  "result": {
+    "item": "the_vault:cluster_eggate",
+    "count": 1
+  }
+}

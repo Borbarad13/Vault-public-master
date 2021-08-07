@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gpg",
+    "pcp",
+    "gpg"
+  ],
+  "key": {
+    "c": {
+      "item": "the_vault:cluster_larimar"
+    },
+    "p": {
+      "item": "the_vault:polished_larimar"
+    },
+    "g": {
+      "item": "the_vault:gem_larimar"
+    }
+  },
+  "result": {
+    "item": "the_vault:chunk_larimar",
+    "count": 1
+  }
+}

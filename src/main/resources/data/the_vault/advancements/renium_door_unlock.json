@@ -1,0 +1,25 @@
+
+{
+  "parent": "the_vault:lootchest",
+  "display": {
+    "title": {
+      "text": "Renium Treasure Room"
+    },
+    "description": {
+      "text": "Use a Renium Key on a Renium Door"
+    },
+    "icon": {
+      "item": "the_vault:key_renium"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/block/blackstone.png"
+  },
+  "criteria": {
+    "unlocked": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

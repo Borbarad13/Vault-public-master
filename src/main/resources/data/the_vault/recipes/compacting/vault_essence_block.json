@@ -1,0 +1,30 @@
+
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "the_vault:vault_essence"
+    },
+    {
+      "item": "the_vault:vault_essence"
+    },
+    {
+      "item": "the_vault:vault_essence"
+    },
+    {
+      "item": "the_vault:vault_essence"
+    }
+  ],
+  "results": [
+    {
+      "item": "the_vault:vault_essence_block"
+    }
+  ]
+}
+

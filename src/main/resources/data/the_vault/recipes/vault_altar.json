@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ioi",
+    "odo",
+    "ioi"
+  ],
+  "key":
+  {
+    "i":
+    {
+      "item": "minecraft:iron_block"
+    },
+    "d":
+    {
+      "item": "minecraft:diamond_block"
+    },
+    "o":
+    {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result":
+  {
+    "item": "the_vault:vault_altar",
+    "count": 1
+  }
+}

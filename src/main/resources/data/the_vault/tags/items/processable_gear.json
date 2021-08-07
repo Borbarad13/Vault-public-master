@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "the_vault:helmet",
+    "the_vault:chestplate",
+    "the_vault:leggings",
+    "the_vault:boots",
+    "the_vault:sword",
+    "the_vault:axe",
+    "the_vault:dagger"
+  ]
+} 

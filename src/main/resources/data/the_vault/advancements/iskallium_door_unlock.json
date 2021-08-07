@@ -1,0 +1,25 @@
+
+{
+  "parent": "the_vault:lootchest",
+  "display": {
+    "title": {
+      "text": "Iskallium Treasure Room"
+    },
+    "description": {
+      "text": "Use an Iskallium Key on an Iskallium Door"
+    },
+    "icon": {
+      "item": "the_vault:key_iskallium"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/block/blackstone.png"
+  },
+  "criteria": {
+    "unlocked": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

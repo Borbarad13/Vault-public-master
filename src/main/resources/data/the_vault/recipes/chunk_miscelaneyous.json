@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gpg",
+    "pcp",
+    "gpg"
+  ],
+  "key": {
+    "c": {
+      "item": "the_vault:cluster_miscelaneyous"
+    },
+    "p": {
+      "item": "the_vault:polished_miscelaneyous"
+    },
+    "g": {
+      "item": "the_vault:gem_miscelaneyous"
+    }
+  },
+  "result": {
+    "item": "the_vault:chunk_miscelaneyous",
+    "count": 1
+  }
+}

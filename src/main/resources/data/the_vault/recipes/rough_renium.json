@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gg",
+    "gg"
+  ],
+  "key": {
+    "g": {
+      "item": "the_vault:gem_renium"
+    }
+  },
+  "result": {
+    "item": "the_vault:rough_renium",
+    "count": 1
+  }
+}

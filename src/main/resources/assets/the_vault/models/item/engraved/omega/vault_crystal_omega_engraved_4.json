@@ -1,0 +1,8 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "the_vault:item/vault_crystal_omega",
+    "layer1": "the_vault:item/vault_crystal_engraved_2",
+    "layer2": "the_vault:item/vault_crystal_engraved_3"
+  }
+}

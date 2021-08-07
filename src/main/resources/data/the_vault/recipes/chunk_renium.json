@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gpg",
+    "pcp",
+    "gpg"
+  ],
+  "key": {
+    "c": {
+      "item": "the_vault:cluster_renium"
+    },
+    "p": {
+      "item": "the_vault:polished_renium"
+    },
+    "g": {
+      "item": "the_vault:gem_renium"
+    }
+  },
+  "result": {
+    "item": "the_vault:chunk_renium",
+    "count": 1
+  }
+}

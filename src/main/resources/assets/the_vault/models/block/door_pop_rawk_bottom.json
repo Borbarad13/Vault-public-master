@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom",
+  "textures": {
+    "top": "the_vault:block/door_pop_rawk_top",
+    "bottom": "the_vault:block/door_pop_rawk_bottom"
+  }
+}

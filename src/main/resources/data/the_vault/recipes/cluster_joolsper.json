@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " g ",
+    "gcg",
+    " g "
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:nether_star"
+    },
+    "g": {
+      "item": "the_vault:gem_joolsper"
+    }
+  },
+  "result": {
+    "item": "the_vault:cluster_joolsper",
+    "count": 1
+  }
+}

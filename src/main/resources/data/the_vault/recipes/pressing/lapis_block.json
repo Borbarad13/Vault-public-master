@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "the_vault:vault_essence_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "the_vault:vault_essence_sheet"
+    }
+  ]
+}

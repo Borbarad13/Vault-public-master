@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "the_vault:rough_gorginite"
+    }
+  ],
+  "results": [
+    {
+      "item": "the_vault:polished_gorginite"
+    }
+  ]
+}

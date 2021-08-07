@@ -1,0 +1,29 @@
+{
+  "parent": "the_vault:root",
+  "display": {
+      "title": {
+          "text": "Like a Boss.",
+          "italic": false
+      },
+      "description": {
+          "text": "Open a boss loot chest from a vault"
+      },
+      "icon": {
+          "item": "the_vault:vault_crate"
+      },
+      "frame": "task",
+      "show_toast": false,
+      "announce_to_chat": true,
+      "hidden": false,
+      "background": "minecraft:textures/gui/advancements/backgrounds/blackstone.png"
+  },
+
+    "criteria": {
+        "asd": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "the_vault:vault_crate"
+            }
+        }
+    }
+}

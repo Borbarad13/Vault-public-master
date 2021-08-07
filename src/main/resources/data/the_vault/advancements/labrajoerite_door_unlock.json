@@ -1,0 +1,25 @@
+
+{
+  "parent": "the_vault:lootchest",
+  "display": {
+    "title": {
+      "text": "Labrajoerite Treasure Room"
+    },
+    "description": {
+      "text": "Use a Labrajoerite Key on a Labrajoerite Door"
+    },
+    "icon": {
+      "item": "the_vault:key_labrajoerite"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/block/blackstone.png"
+  },
+  "criteria": {
+    "unlocked": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+
+{
+  "parent": "the_vault:lootchest",
+  "display": {
+    "title": {
+      "text": "Alexandrite Treasure Room"
+    },
+    "description": {
+      "text": "Use an Alexandrite Key on an Alexandrite Door"
+    },
+    "icon": {
+      "item": "the_vault:key_alexandrite"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/block/blackstone.png"
+  },
+  "criteria": {
+    "unlocked": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

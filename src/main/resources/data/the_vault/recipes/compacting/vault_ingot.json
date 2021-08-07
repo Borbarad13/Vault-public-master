@@ -1,0 +1,26 @@
+
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "the_vault:vault_essence_sheet"
+    },
+    {
+      "item": "the_vault:vault_ingot_plate"
+    },
+    {
+      "item": "the_vault:vault_ingot_plate"
+    }
+  ],
+  "results": [
+    {
+      "item": "the_vault:vault_ingot"
+    }
+  ]
+}

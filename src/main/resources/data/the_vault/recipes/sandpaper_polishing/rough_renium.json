@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "the_vault:rough_renium"
+    }
+  ],
+  "results": [
+    {
+      "item": "the_vault:polished_renium"
+    }
+  ]
+}

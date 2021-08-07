@@ -1,0 +1,27 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/netherite_scrap"
+    },
+    {
+      "item": "the_vault:vault_scrap"
+    },
+    {
+      "item": "the_vault:vault_scrap"
+    },
+    {
+      "item": "the_vault:vault_scrap"
+    },
+    {
+      "item": "the_vault:vault_scrap"
+    }
+  ],
+  "results": [
+    {
+      "item": "the_vault:vault_ingot_plate",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "heated"
+}
